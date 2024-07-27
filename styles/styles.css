@@ -285,7 +285,9 @@ main>section {
     .navbar{
         display: flex;
     }
-    
+    .nav-items{
+        list-style-type: disc;
+    }
     .navbar-links,
     .features-list,
     .teams{
